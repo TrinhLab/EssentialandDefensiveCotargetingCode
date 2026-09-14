@@ -1,0 +1,15 @@
+.DS_Store
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Analysis outputs
+search_space_results.csv
+search_space_results_scatter.png
+guide_blast_results_*.tsv
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
